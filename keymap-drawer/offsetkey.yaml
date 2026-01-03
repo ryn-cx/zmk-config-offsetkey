@@ -46,7 +46,7 @@ layers:
   - {t: ;, s: ':'}
   - .
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - PAGE DOWN
+  - PgDn
   - G
   - $$mdi:apple-keyboard-shift$$
   - Z
