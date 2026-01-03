@@ -15,7 +15,7 @@ layers:
   - {t: '-', s: _}
   - {t: '=', s: +}
   - {t: '$$mdi:backspace$$', type: backspace}
-  - HOME
+  - F5
   - '6'
   - $$mdi:keyboard-tab$$
   - Q
@@ -31,7 +31,7 @@ layers:
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
   - {t: \, s: '|'}
-  - PAGE UP
+  - RGB ON
   - T
   - '1'
   - A
@@ -46,7 +46,7 @@ layers:
   - {t: ;, s: ':'}
   - .
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - PAGE DOWN
+  - RGB OFF
   - G
   - $$mdi:apple-keyboard-shift$$
   - Z
@@ -61,7 +61,7 @@ layers:
   - {t: /, s: '?'}
   - $$mdi:apple-keyboard-shift$$
   - $$mdi:arrow-up-bold$$
-  - END
+  - $$mdi:backspace-reverse-outline$$
   - B
   - $$mdi:apple-keyboard-control$$
   - $$mdi:apple-keyboard-command$$
@@ -81,7 +81,7 @@ layers:
   - $$mdi:arrow-right-bold$$
   - $$mdi:arrow-down-bold$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - PLAY PAUSE
+  - $$mdi:keyboard-space$$
   - $$mdi:mouse-left-click-outline$$
   - $$mdi:mouse-left-click-outline$$
   - $$mdi:mouse-right-click-outline$$
@@ -101,7 +101,7 @@ layers:
   - F11
   - F12
   - {t: '$$mdi:transfer$$', type: trans}
-  - PRINTSCREEN
+  - HOME
   - F6
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
